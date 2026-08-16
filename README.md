@@ -1,25 +1,27 @@
-# Olá, sou o Tiago! 👋
+# Olá, sou o Tiago Moreira! 👋
 
-Analista de Redes (NOC) | Técnico em Telecomunicações | Estudante de Redes de Computadores
+Analista de NOC de Redes Móveis | Técnico em Telecomunicações (CRT-SP) | Graduando em Redes de Computadores
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando na área de Telecomunicações e Operações de Rede (NOC).
-- 🎓 Graduando em Redes de Computadores e em constante aprimoramento técnico.
-- 📜 Registrado no CRT-SP (Conselho Regional dos Técnicos Industriais do Estado de São Paulo).
-- 🎯 Focado em:
-  - Protocolo IPv6 e infraestrutura de redes.
-  - Redes de alta velocidade e Tecnologia 5G.
-  - Gestão Ágil de Projetos e automação de redes / IoT.
+- 📡 Técnico em Telecomunicações com 10 anos de experiência de campo, atuando hoje no NOC de Redes Móveis da Icomon Tecnologia.
+- 🎓 Graduando em Redes de Computadores, unindo a vivência prática com o aprofundamento acadêmico.
+- 📜 Profissional registrado no CRT-SP (Conselho Regional dos Técnicos Industriais de São Paulo).
+- ⚡ Domínio prático em Infraestrutura e Infra de Sites:
+  - Sistemas de Energia AC/DC, Fontes de Corrente Contínua (**FCC**) e Bancos de Baterias.
+  - Telemetria e monitoramento de parâmetros críticos (temperatura, tensão/voltagem, alarmes operacionais).
+  - Integração de equipamentos e PLCs aplicados à rede.
+- 🎯 Foco e Estudos: Protocolo IPv6, arquitetura 5G, infraestrutura de redes e Gestão Ágil de Projetos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Competências Tecnológicas
 
-- Redes & Telecom: IPv6, Roteamento e Comutação, Monitoramento NOC, Infraestrutura FTTH/5G.
-- Sistemas & Gerenciamento: Linux, Métodos Ágeis.
+- Operações & NOC: Monitoramento de Redes Móveis, Gestão de Incidentes, Telemetria.
+- Infraestrutura de Telecom: Energia AC/DC, FCC, Bancos de Baterias, PLCs e Automação de Sites.
+- Redes & Sistemas: Redes de Computadores, IPv6, Linux, Metodologias Ágeis.
 
 ---
 
