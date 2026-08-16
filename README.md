@@ -6,13 +6,13 @@ Analista de NOC de Redes Móveis | Técnico em Telecomunicações (CRT-SP) | Gra
 
 ### 🚀 Sobre mim
 
-- 📡 Técnico em Telecomunicações com 10 anos de experiência de campo, atuando hoje no NOC de Redes Móveis da Icomon Tecnologia.
-- 🎓 Graduando em Redes de Computadores, unindo a vivência prática com o aprofundamento acadêmico.
+- 📡 Técnico em Telecomunicações com 10 anos de experiência de campo, atuando hoje no NOC de Redes Móveis.
+- 🎓 Graduando em Redes de Computadores, unindo a vivência prática ao aprofundamento acadêmico.
 - 📜 Profissional registrado no CRT-SP (Conselho Regional dos Técnicos Industriais de São Paulo).
 - ⚡ Domínio prático em Infraestrutura e Infra de Sites:
   - Sistemas de Energia AC/DC, Fontes de Corrente Contínua (**FCC**) e Bancos de Baterias.
-  - Telemetria e monitoramento de parâmetros críticos (temperatura, tensão/voltagem, alarmes operacionais).
-  - Integração de equipamentos e PLCs aplicados à rede.
+  - Telemetria e monitoramento de parâmetros operacionais críticos (temperatura de ambiente/equipamentos e níveis de tensão DC em barramentos e baterias).
+  - Integração de equipamentos e PLCs aplicados ao controle e alarmística de rede.
 - 🎯 Foco e Estudos: Protocolo IPv6, arquitetura 5G, infraestrutura de redes e Gestão Ágil de Projetos.
 
 ---
