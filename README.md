@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, sou o Tiago! 👋
 
-<!--
-**tiagotecnicocrtsp-lgtm/tiagotecnicocrtsp-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Redes (NOC) | Técnico em Telecomunicações | Estudante de Redes de Computadores
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando na área de Telecomunicações e Operações de Rede (NOC).
+- 🎓 Graduando em Redes de Computadores e em constante aprimoramento técnico.
+- 📜 Registrado no CRT-SP (Conselho Regional dos Técnicos Industriais do Estado de São Paulo).
+- 🎯 Focado em:
+  - Protocolo IPv6 e infraestrutura de redes.
+  - Redes de alta velocidade e Tecnologia 5G.
+  - Gestão Ágil de Projetos e automação de redes / IoT.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- Redes & Telecom: IPv6, Roteamento e Comutação, Monitoramento NOC, Infraestrutura FTTH/5G.
+- Sistemas & Gerenciamento: Linux, Métodos Ágeis.
+
+---
+
+### 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tiago-moreira-8b4325407)
+- 📧 Email: tiagotecnicocrtsp@gmail.com
