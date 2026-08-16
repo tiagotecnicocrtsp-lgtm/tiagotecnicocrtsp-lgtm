@@ -1,68 +1,70 @@
-Olá, sou o Tiago Moreira! 👋
+# 📡 Tiago Moreira | Profile
+
+<div align="center">
 
 Analista de NOC em Redes Móveis | Técnico em Telecomunicações (CRT-SP) | Graduando em Redes de Computadores
 
-⸻
+</div>
 
-🚀 Sobre mim
+---
 
-📡 Técnico em Telecomunicações com 10+ anos de experiência prática, atuando atualmente em NOC de Redes Móveis.
-🔍 Experiência em monitoramento, análise crítica, correlação de alarmes, troubleshooting e gestão de incidentes em ambientes de telecomunicações.
-🛰️ Atuação com plataformas de gerência Huawei e Ericsson, analisando falhas de RAN, RF, transmissão, hardware, energia e infraestrutura.
-🛠️ Experiência em isolamento de falhas, identificação de equipamentos/subsistemas afetados, avaliação de impacto e direcionamento técnico para Campo, RF e Engenharia de Redes.
-⚡ Vivência prática com sistemas AC/DC, FCC, bancos de baterias, PLCs, telemetria e monitoramento de infraestrutura de sites móveis.
-🌐 Graduando em Redes de Computadores, conectando experiência prática de Telecom e NOC com conhecimentos em Networking e infraestrutura.
-📜 CRT-SP ativo, com formação técnica e certificações complementares em tecnologia.
+### 🚀 Sobre Mim
 
-⸻
+> *Do campo ao NOC. Do NOC às Redes. Transformando experiência prática em engenharia de infraestrutura.*
 
-🛠️ Competências & Tecnologias
+* Telecom & NOC: Técnico em Telecomunicações com 10+ anos de experiência prática, atuando no NOC de Redes Móveis com foco em monitoramento, correlação de alarmes, isolamento de falhas (*Fault Isolation*) e gestão de incidentes.
+* Plataformas & Vendedores: Atuação direta nas plataformas de gerência Huawei e Ericsson, diagnosticando falhas de RAN, RF, transmissão, hardware, energia e infraestrutura.
+* Infraestrutura Crítica: Domínio de sistemas de energia AC/DC, FCC, bancos de baterias, PLCs, telemetria e monitoramento preditivo de sites móveis.
+* Visão de Engenharia: Graduando em Redes de Computadores, conectando a vivência operacional ao design, roteamento e automação de redes.
 
-📡 Mobile Networks: GSM (2G), WCDMA (3G), LTE (4G) e NR (5G)
-🔍 NOC & Troubleshooting: Monitoramento, Alarmes, Correlação de Eventos, Fault Isolation e Incident Management
-🛰️ RAN & RF: Análise de alarmes, diagnóstico de falhas e identificação de impacto operacional
-🏢 Vendors: Huawei e Ericsson
-🌐 Networking: TCP/IP, IPv4, IPv6, Subnetting, VLAN, Switching, Routing, OSPF, BGP e MPLS
-🐧 Sistemas: Linux, Virtualização e Cloud Computing
-⚡ Infraestrutura: AC/DC, FCC, Bancos de Baterias, PLCs, Telemetria e Monitoramento
-🤖 Tecnologia: Automação, análise de dados e fundamentos de cibersegurança
+---
 
-⸻
+### 🛠️ Tech Stack & Ferramentas
 
-🎓 Formação & Certificações
+| Categoria | Tecnologias & Protocolos |
+| :--- | :--- |
+| Mobile Networks | GSM (2G), WCDMA (3G), LTE (4G), NR (5G) |
+| Vendors & NOC | Huawei, Ericsson, Gestão de Incidentes, RCA, Fault Isolation |
+| Networking | TCP/IP, IPv4, IPv6, Subnetting, VLAN, Switching, OSPF, BGP, MPLS |
+| Infra & Power | AC/DC, FCC, Bancos de Baterias, PLCs, Telemetria, IoT |
+| Sistemas & Cloud | Linux, Virtualização, Cloud Computing, Automação |
 
-🎓 Graduação em Redes de Computadores — Em andamento
-📡 Técnico em Telecomunicações — CRT-SP ativo
-🔐 FIAP — Cybersecurity
-📊 FIAP — Big Data
-🌐 Cisco — Certificação em Redes
-📚 Formação complementar contínua em Networking, Telecomunicações e Infraestrutura
+---
 
-⸻
+### 🎓 Formação & Certificações
 
-📚 Atualmente estudando
+* 🎓 Graduação em Redes de Computadores — Em andamento
+* 📡 Técnico em Telecomunicações — Registro CRT-SP Ativo
+* 🔐 FIAP — Cybersecurity
+* 📊 FIAP — Big Data
+* 🌐 Cisco — Certificação em Redes
 
-Redes de Computadores • TCP/IP • IPv4/IPv6 • Subnetting • Switching • VLAN • STP • Routing • OSPF • BGP • MPLS • Linux • Cloud • Virtualização • Automação
+---
 
-⸻
+### 📚 Foco Atual de Estudos
 
-💻 GitHub
+- Redes & Protocolos: OSPF / BGP / MPLS / IPv6
+- Infra & Sistemas: Linux / Virtualização / Cloud
+- Automação: Scripts / Telemetria
 
-Utilizo este espaço para documentar minha evolução técnica através de:
+---
 
-🌐 Laboratórios de Redes de Computadores
-📡 Estudos de Telecom e Redes Móveis
-🐧 Laboratórios Linux
-🔧 Projetos de Troubleshooting e Networking
-🤖 Automação e scripts
-📚 Projetos acadêmicos
-🧪 Testes e experimentos de infraestrutura
+### 🧪 Laboratórios & Repositórios
 
-Do campo ao NOC. Do NOC às Redes. Transformando experiência prática em conhecimento e projetos.
+Este espaço é dedicado a documentar a evolução técnica através de:
 
-⸻
+* 🌐 Networking Labs: Cenários de switching, roteamento e topologias IPv4/IPv6.
+* 📡 Telecom & Mobile: Estudos de sinalização, RAN e infraestrutura de sites.
+* 🐧 Linux & Server Labs: Configuração de serviços, segurança e virtualização.
+* 🤖 Automation: Scripts para análise de logs, monitoramento e automação de rotinas.
+
+---
+
+<div align="center">
 
 📫 Vamos nos conectar?
 
-💼 LinkedIn: Tiago Moreira (https://www.linkedin.com/in/tiago-moreira-8b4325407)
-📧 E-mail: tiagotecnicocrtsp@gmail.com
+[<img src="https://img.shields.io/badge/LinkedIn-Tiago_Moreira-0A66C2?style=popout-square&logo=linkedin">](https://linkedin.com/in/)
+[<img src="https://img.shields.io/badge/Email-tiagotecnicocrtsp@gmail.com-EA4335?style=popout-square&logo=gmail">](mailto:tiagotecnicocrtsp@gmail.com)
+
+</div>
