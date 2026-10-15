@@ -58,6 +58,7 @@ Este espaço é dedicado a documentar a evolução técnica através de:
 * 🐧 Linux & Server Labs: Configuração de serviços, segurança e virtualização.
 * 🤖 Automation: Scripts para análise de logs, monitoramento e automação de rotinas.
 
+# Projeto protegido sob a licença GPLv3
 ---
 
 <div align="center">
